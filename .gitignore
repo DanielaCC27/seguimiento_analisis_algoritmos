@@ -1,0 +1,6 @@
+bin/
+*.class
+.vscode/
+verificacion/
+abstracts_extraidos/
+articulos/*.pdf
