@@ -21,4 +21,4 @@ Mide el tiempo de cada uno en milisegundos.
 - `src/Preprocesador.java`: limpieza del texto y conteo de frecuencias.
 
 ## Uso de IA
-Usé Claude como apoyo para la versión inicial del código. A partir de ello, se verificó, ajustó, ejecutó y se medieron los tiempos de ejecución de manera manual.
+Usamos Claude como apoyo para la versión inicial del código. A partir de ello, se verificó, ajustó, ejecutó y se medieron los tiempos de ejecución de manera manual.
